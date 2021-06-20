@@ -1,2 +1,4 @@
 Gitの練習
 名前が違うけど
+・Git add
+・Git commit
